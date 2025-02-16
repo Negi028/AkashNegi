@@ -1,4 +1,3 @@
-# AkashNegi
 # 💫 About Me:
 Hi there! I'm Akash Negi 👋<br>I am a Computer Science Engineering graduate with a passion for web development. I have experience in HTML, CSS, JavaScript, and Java, and I love creating interactive and user-friendly applications. I enjoy tackling challenges and continuously learning new technologies to enhance my skills.<br><br>Feel free to explore my repositories, and let's connect!
 
